@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "tuple": "cpp",
+        "valarray": "cpp",
+        "chrono": "cpp",
+        "variant": "cpp",
+        "iostream": "cpp"
+    }
+}
